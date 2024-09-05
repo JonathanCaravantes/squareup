@@ -2,7 +2,8 @@
 
 Square API Client provides a Rust wrapper on top of the Square web APIs.
 
-Forked from https://github.com/cosm-public/rust-square-api-client-lib/tree/main on 1/4/2024.
+Forked from https://github.com/kcable194/squareup
+Forked is Forked from https://github.com/cosm-public/rust-square-api-client-lib/tree/main on 1/4/2024.
 
 ## Square API
 
